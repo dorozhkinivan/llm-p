@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+dist/
+.idea/
+*.whl
+db_meta.json
